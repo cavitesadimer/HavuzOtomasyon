@@ -80,7 +80,7 @@ public class Seans {
                     }
                 }
                 if (seans.equalsIgnoreCase("aksam")){
-                    if (pztOgle==5){
+                    if (pztAksam==5){
                         System.out.println("Bu seans maalesef dolu");
                         System.out.println("Lutfen tekrardan seciniz");
                     }
